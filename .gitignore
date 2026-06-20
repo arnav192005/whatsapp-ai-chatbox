@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# Environment variables (API Keys MUST NOT be on GitHub)
+.env
+
+# WhatsApp Auth Session (Contains your personal WhatsApp login data)
+.wwebjs_auth/
+
+# System files
+.DS_Store
